@@ -19,7 +19,7 @@
 '				Specific user: domaintname\username
 '
 '==========================================================================
-SleepTimer = 5000					' Sleep timer in milliseconds
+SleepTimer = 5000					        ' Sleep timer in milliseconds
 ProxyServer = "10.100.1.254:8080"	' Proxy-server settings
 
 WScript.Sleep(SleepTimer)
